@@ -14,7 +14,7 @@ pipeline {
         }
         stage('end') {
             steps {
-                echo 'ending'
+                echo 'endingg'
             }
         }
     }
